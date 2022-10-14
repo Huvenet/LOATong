@@ -30,6 +30,7 @@
         - DBeaver 2
       - ETC
         - Spring Batch
+        - Crawling
 
     - FrontEnd
       - JavaScript ES 2016
@@ -39,4 +40,4 @@
       - HTML 5.0
       - S3
 
-![img.png](server_structure_sketch.png)
+![img.png](ServerStructureSketch.png)
