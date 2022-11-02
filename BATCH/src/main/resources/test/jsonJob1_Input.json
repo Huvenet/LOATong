@@ -1,0 +1,22 @@
+[
+  {
+    "market" :  "KRW-ETH",
+    "korean_name": "이더리움",
+    "english_name": "Ethereum"
+  },
+  {
+    "market" :  "BTC-ETH",
+    "korean_name": "이더리움",
+    "english_name": "Ethereum"
+  },
+  {
+    "market" :  "BTC-LTC",
+    "korean_name": "라이트코인",
+    "english_name": "Litecoin"
+  },
+  {
+    "market" :  "BTC-XRP",
+    "korean_name": "리플",
+    "english_name": "Ripple"
+  }
+]
